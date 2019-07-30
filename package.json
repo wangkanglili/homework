@@ -1,0 +1,26 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  "zxt":"lessc css/index.less css/index.min.css -x",
+  "xxx":"webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangkanglili/homework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangkanglili/homework/issues"
+  },
+  "homepage": "https://github.com/wangkanglili/homework#readme",
+  "dependencies": {
+    "bootstrap": "^3.4.1",
+    "jquery": "^3.4.1",
+    "less": "^3.9.0"
+  }
+}
